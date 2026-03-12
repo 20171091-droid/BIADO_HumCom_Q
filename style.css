@@ -144,8 +144,8 @@ margin-top:20px;
 }
 
 .home-images img{
-width:120px;
-height:120px;
+width:100px;
+height:100px;
 }
 
 /* ===== GALLERY PAGE ===== */
@@ -260,5 +260,6 @@ grid-template-columns:repeat(2,1fr);
 width:80px;
 height:80px;
 }
+
 
 }
